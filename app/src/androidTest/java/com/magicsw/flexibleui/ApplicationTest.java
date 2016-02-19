@@ -1,4 +1,4 @@
-package com.magicsw.dynamicui;
+package com.magicsw.flexibleui;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

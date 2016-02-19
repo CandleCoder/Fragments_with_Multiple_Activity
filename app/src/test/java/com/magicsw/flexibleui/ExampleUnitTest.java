@@ -1,4 +1,4 @@
-package com.magicsw.dynamicui;
+package com.magicsw.flexibleui;
 
 import org.junit.Test;
 

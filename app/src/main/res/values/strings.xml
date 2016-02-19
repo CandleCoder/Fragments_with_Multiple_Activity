@@ -1,16 +1,15 @@
 <resources>
-    <string name="app_name">DynamicUI</string>
-    <string-array  name="Title">
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        </string-array>
+    <string name="app_name">flexible UI</string>
 
-    <string-array  name="Description">
-        <item>Apple</item>
-        <item>Boy</item>
-        <item>Cat</item>
-        <item>Dog</item>
+    <string-array name="topic">
+        <item>Android</item>
+        <item>Fragment</item>
+        <item>Inflator</item>
+    </string-array>
+
+    <string-array name="Description">
+        <item>Android is the customisable, easy-to-use operating system that powers more than a billion devices across the globe – from phones and tablets to watches, TV, cars and more to come.</item>
+        <item>A Fragment represents a behavior or a portion of user interface in an Activity. You can combine multiple fragments in a single activity to build a multi-pane UI and reuse a fragment in multiple activities. </item>
+        <item>This class decompresses data that was compressed using the DEFLATE algorithm .It is usually more convenient to use InflaterInputStream.To decompress an in-memory byte[] to another in-memory byte[] manually:</item>
     </string-array>
 </resources>

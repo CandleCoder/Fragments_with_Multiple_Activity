@@ -6,14 +6,14 @@
     <fragment
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:name="com.magicsw.dynamicui.FragmentA"
+        android:name="com.magicsw.fragments.FragmentA"
         android:id="@+id/fragment"
         android:layout_weight="1"/>
 
     <fragment
         android:layout_width="0dp"
         android:layout_height="match_parent"
-        android:name="com.magicsw.dynamicui.FragmentB"
+        android:name="com.magicsw.fragments.FragmentB"
         android:id="@+id/fragment2"
         android:layout_gravity="center_vertical"
         android:layout_weight="1" />
